@@ -79,3 +79,8 @@ footer {
 .side a:hover {
   color: #00ccff;
 }
+
+#div_b2780f46-43ab-403b-b7ba-739c55e9ccf1 {
+  border: 3px dashed red;
+  border-radius: 5px; 	
+}
