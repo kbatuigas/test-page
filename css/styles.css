@@ -13,10 +13,7 @@ main, footer {
   padding-left: 20px;
 }
 
-footer {
-	position: fixed;
-	bottom: 0;
-}
+
 
 /* Style the side navigation */
 .sidebar {
